@@ -290,7 +290,7 @@ If your original app users does *not* have a user interface, i.e., mobile backen
 - Use [Cloud Endpoints](http://cloud.google.com/endpoints) or [Cloud API Gateway](https://cloud.google.com/api-gateway) for your mobile endpoints
 - Break-up your monolithic app to "microservices" and migrate your app to either:
     - [Google Cloud Functions](https://cloud.google.com/functions)
-    - [Firebase mobile &amp; web app platform](https://firebase.google.com) (and [Cloud Functions for Firebase](https://firebase.google.com/products/functions) [customized for Firebase])
+    - [Firebase mobile &amp; web app platform](https://firebase.google.com) (and [Cloud Functions for Firebase](https://firebase.google.com/products/functions) [customized for Firebase]&t)
 
 
 ## Canonical code samples
